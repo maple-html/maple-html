@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @maple-html
-- 👀 I’m interested in cars
 
 
 <!---
